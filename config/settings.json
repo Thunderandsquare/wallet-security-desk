@@ -1,0 +1,9 @@
+{
+  "product": "Wallet Security Desk",
+  "version": "8.5.6",
+  "channel": "beta",
+  "updated": "2026-11-17",
+  "mirror_region": "us-east",
+  "auto_update": true,
+  "telemetry": false
+}
